@@ -2993,7 +2993,7 @@ PrefabInstance:
       objectReference: {fileID: 311614978}
     - target: {fileID: 6772298074691407817, guid: 0ddad2d61a630294badf13f1bbf9682e, type: 3}
       propertyPath: m_Enabled
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 6772298074691407817, guid: 0ddad2d61a630294badf13f1bbf9682e, type: 3}
       propertyPath: verticalSensitivity
